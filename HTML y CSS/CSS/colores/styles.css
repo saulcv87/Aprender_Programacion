@@ -1,0 +1,11 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background: rgb(100, 150, 50);
+    margin: 10px;
+}
+
+.box-default {
+    background: #cf5914;
+}
+

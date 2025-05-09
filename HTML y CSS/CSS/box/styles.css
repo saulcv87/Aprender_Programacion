@@ -1,0 +1,23 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background: red;
+    margin: 10px;
+}
+
+body {
+    margin : 0;
+}
+
+.box-default {
+    padding: 30px;
+    border : 10px solid black;
+    box-sizing: border-box;
+}
+
+.new-box {
+    box-sizing: border-box;
+    padding: 25 px;
+    border: 10px solid black;
+
+}

@@ -1,0 +1,15 @@
+div {
+    background: red;
+    width: 150px;
+    margin: auto;
+    text-align: center;
+    border: 3px solid black; /*Border con todas las propiedades*/
+
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 8px;
+
+    border-top: 5px solid blue; /*Borde superior azul*/
+    border-bottom: 2px dashed yellow; /*Borde inferior amarillo*/
+}
